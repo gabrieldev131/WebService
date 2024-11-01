@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDisciplina xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Disciplina>
+    <Id>1</Id>
+    <Nome>Matemática</Nome>
+    <Descricao>Estudo de números e equações.</Descricao>
+  </Disciplina>
+  <Disciplina>
+    <Id>2</Id>
+    <Nome>História</Nome>
+    <Descricao>Estudo dos acontecimentos passados.</Descricao>
+  </Disciplina>
+</ArrayOfDisciplina>
