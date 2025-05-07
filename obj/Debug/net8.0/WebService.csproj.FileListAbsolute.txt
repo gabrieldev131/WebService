@@ -1,0 +1,31 @@
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\bin\Debug\net8.0\WebService.exe
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\bin\Debug\net8.0\WebService.deps.json
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\bin\Debug\net8.0\WebService.runtimeconfig.json
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\bin\Debug\net8.0\WebService.dll
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\bin\Debug\net8.0\WebService.pdb
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.AssemblyInfoInputs.cache
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.AssemblyInfo.cs
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.dll
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\refint\WebService.dll
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.pdb
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\WebService.genruntimeconfig.cache
+C:\Users\20222bsi0172\Documents\visualStudio\c#\WebService\obj\Debug\net8.0\ref\WebService.dll
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.AssemblyInfoInputs.cache
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.AssemblyInfo.cs
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.dll
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\refint\WebService.dll
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.pdb
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.csproj.AssemblyReference.cache
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\bin\Debug\net8.0\WebService.exe
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\bin\Debug\net8.0\WebService.deps.json
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\bin\Debug\net8.0\WebService.runtimeconfig.json
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\bin\Debug\net8.0\WebService.dll
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\bin\Debug\net8.0\WebService.pdb
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.csproj.Up2Date
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\WebService.genruntimeconfig.cache
+C:\Users\mila0\Documents\visual studio codigos\C#\WebService\obj\Debug\net8.0\ref\WebService.dll

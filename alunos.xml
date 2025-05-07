@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aluno>
+    <Id>1</Id>
+    <Nome>Maria Silva</Nome>
+    <Endereco>Rua das Flores, 123</Endereco>
+  </Aluno>
+  <Aluno>
+    <Id>2</Id>
+    <Nome>João Souza</Nome>
+    <Endereco>Avenida Central, 456</Endereco>
+  </Aluno>
+</ArrayOfAluno>
